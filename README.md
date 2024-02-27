@@ -24,7 +24,7 @@ cd .\vite\vite2test
 npm install
 ```
 
-4. change the MF remote URL in vite.config.js
+4. change the MF remote URL in vite.config.js to where you host the webpack project
 ```
 //example: const myWebpackService = 'http://localhost:8080/';
 const myWebpackService = 'http://localhost:8081/';
