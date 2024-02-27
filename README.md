@@ -32,4 +32,6 @@ const myWebpackService = 'http://localhost:8081/';
 //example: const externalChildPath = `webpackTest/remoteEntry.js`;
 const externalChildPath = `remoteEntry.js`;
 ```
-5. npm run dev then change the MF shared setting, see what will happened
+5. npm run dev then change the MF shared setting, 
+navigate to http://localhost:8081/test  
+see what will happened
